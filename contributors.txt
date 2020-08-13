@@ -1,0 +1,8 @@
+This file contains a list of people who have made large contributions
+to the public version of WP-extends-cli.
+
+Developers:
+  Guillaume Richard <g.jf.richard@gmail.com>
+
+Documentation:
+  Guillaume Richard <g.jf.richard@gmail.com>
